@@ -4,4 +4,4 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-$(call inherit-product, device/google/crosshatch/device-tequila.mk)
+$(call inherit-product, device/google/crosshatch/device-derp.mk)
